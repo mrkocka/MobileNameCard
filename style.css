@@ -22,7 +22,7 @@ header{
 }
 
 .language img{
-    width: 3.125rem;
+    width: 2.5rem;
     margin-left: .5rem;
     margin-right: .5rem;
     cursor: pointer;
@@ -79,8 +79,9 @@ main{
 }
 
 .button img{
-    width: 5.875rem;
+    width: 5rem;
     margin: 2rem;
+    cursor: pointer;
 }
 
 .textArea{
