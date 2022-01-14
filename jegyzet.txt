@@ -1,1 +1,6 @@
 használandó URL:    https://www.mrkocka.hu/project/nc/
+
+<h2>Örülök, hogy leolvastad a Qr kódomat?</h2>
+            <h4>Ezért vár <span>12% kedvezmény</span> a következő megbízásod árából!</h4>
+            <h3>A kedvezmény jelszava</h3>
+            <p class="jelszo">"Konyhamalac"</p>

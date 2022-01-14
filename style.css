@@ -19,7 +19,10 @@ header{
 .language{
     display: flex;
     justify-content: flex-end;
+    height: ;
+    text-align: ;
 }
+
 
 .language img{
     width: 2.5rem;
@@ -60,7 +63,7 @@ main{
    display: flex;
    flex-direction: column;
    align-items: center;
-   
+ 
     
 }
 
@@ -87,10 +90,10 @@ main{
 .textArea{
     outline: 1px solid whitesmoke;
     color: whitesmoke;
+    height: auto;
     
 }
 .textArea h2{
-    margin-bottom: 1rem;
     font-size: 2.5rem;
     font-family: 'Amatic SC', cursive;
 }
@@ -108,6 +111,7 @@ main{
     text-align: center;
     font-size: 1.8rem;
     font-family:'Open Sans Condensed', sans-serif;
+    margin-bottom: 1rem;
 }
 
 .jelszo{
@@ -124,7 +128,22 @@ main{
 .textArea p{
     padding-left: 1.5rem;
     padding-right: 1.5rem;
+    font-size: 1.5rem;
     font-family:'Open Sans Condensed', sans-serif;
     margin-bottom: 2rem;
 }
 
+.footer{
+
+    height: auto;
+    font-size: 1.8rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer a {
+    margin-bottom: .2rem;
+    margin-top: -1.2rem;
+    color: whitesmoke;
+    font-family:'Open Sans Condensed', sans-serif;
+    
+}
