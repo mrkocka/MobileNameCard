@@ -8,19 +8,15 @@
 header{
     max-width: 33.125rem;
     height: 22.125rem;
-    /* outline: 1px solid black; */
-    background-image: url(./img/klavi_bg.jpg);
+    background-image: url(./img/klavi_bg.webp);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    /* display: flex;
-    justify-content: flex-end; */
+  
 }
 .language{
     display: flex;
     justify-content: flex-end;
-    height: ;
-    text-align: ;
 }
 
 
@@ -52,8 +48,7 @@ header{
 main{
     max-width: 33.125rem;
     height: auto;
-    /* outline: 1px solid black; */
-    background-image: url(./img/massageBg.jpg);
+    background-image: url(./img/massageBg.webp);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -88,7 +83,6 @@ main{
 }
 
 .textArea{
-    outline: 1px solid whitesmoke;
     color: whitesmoke;
     height: auto;
     
